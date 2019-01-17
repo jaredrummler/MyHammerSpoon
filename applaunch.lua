@@ -5,7 +5,8 @@ local apps = {
     { key = "s", app = "Slack" },
     { key = "t", app = "iTerm" },
     { key = "f", app = "Finder" },
-    { key = "i", app = "IntelliJ IDEA Ultimate" }
+    { key = "i", app = "IntelliJ IDEA Ultimate" },
+    { key = "p", app = "Spotify" }
 }
 
 local ext = {
